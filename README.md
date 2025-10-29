@@ -4,8 +4,6 @@
   <h3>IT Intern | Automation Enthusiast | Cloud Explorer</h3>
 </div>
 
----
-
 <div align="center">
   ## 🚀 About Me
 </div>
@@ -69,7 +67,7 @@ Here are some projects where I've applied my skills. Click on the project images
   <p>
     <code><img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white" alt="Ubuntu" /></code>
     <code><img src="https://img.shields.io/badge/Apache-D22128?style=flat&logo=apache&logoColor=white" alt="Apache" /></code>
-    <code><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL" /></code>
+    <code><img src="https.img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL" /></code>
   </p>
   <p><a href="[Replace_with_LAMP_Stack_GitHub_Repository_Link]">🔗 View on GitHub</a></p>
 </div>
@@ -85,7 +83,7 @@ Here are some projects where I've applied my skills. Click on the project images
   <p>
     <code><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" /></code>
     <code><img src="https://img.shields.io/badge/Active%20Directory-0078D4?style=flat&logo=microsoft&logoColor=white" alt="Active Directory" /></code>
-    <code><img src="https://img.shields.io/badge/CSV-26A200?style=flat&logo=csv&logoColor=white" alt="CSV" /></code>
+    <code><img src="https.img.shields.io/badge/CSV-26A200?style=flat&logo=csv&logoColor=white" alt="CSV" /></code>
   </p>
   <p><a href="[Replace_with_Provisioning_Script_GitHub_Repository_Link]">🔗 View on GitHub</a></p>
 </div>
