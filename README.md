@@ -4,6 +4,7 @@
   <h3>IT Intern | Automation Enthusiast | Cloud Explorer</h3>
 </div>
 
+---
 
 <div align="center">
   ## 🚀 About Me
@@ -16,6 +17,7 @@
 - 💡  **Fun Fact:** When I'm not troubleshooting, I enjoy long-distance cycling, which helps me approach complex problems with focus and stamina!
 </p>
 
+---
 
 <div align="center">
   ## 🛠 Skills & Tools
@@ -32,12 +34,15 @@ I focus on practical application of technology to solve real-world problems.
 | **Networking** | TCP/IP, DNS, DHCP, Basic Cisco IOS Configuration |
 | **Version Control** | Git, GitHub |
 
+---
 
 <div align="center">
   ## 🌟 Portfolio Projects
 </div>
 
 Here are some projects where I've applied my skills. Click on the project images to learn more and view the code!
+
+---
 
 ### 1. Daily Log File Archiver
 <div align="center">
@@ -53,7 +58,7 @@ Here are some projects where I've applied my skills. Click on the project images
   <p><a href="[Replace_with_Archiver_GitHub_Repository_Link]">🔗 View on GitHub</a></p>
 </div>
 
-<br>
+---
 
 ### 2. Virtual LAMP Stack Deployment
 <div align="center">
@@ -69,7 +74,7 @@ Here are some projects where I've applied my skills. Click on the project images
   <p><a href="[Replace_with_LAMP_Stack_GitHub_Repository_Link]">🔗 View on GitHub</a></p>
 </div>
 
-<br>
+---
 
 ### 3. Basic User Provisioning Script
 <div align="center">
@@ -85,6 +90,7 @@ Here are some projects where I've applied my skills. Click on the project images
   <p><a href="[Replace_with_Provisioning_Script_GitHub_Repository_Link]">🔗 View on GitHub</a></p>
 </div>
 
+---
 
 <div align="center">
   ## 📈 My GitHub Stats
@@ -95,6 +101,7 @@ Here are some projects where I've applied my skills. Click on the project images
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=[YOUR-USERNAME]&theme=vue-dark&hide_border=true" alt="GitHub Streak" />
 </p>
 
+---
 
 <div align="center">
   ## 📬 Get In Touch
