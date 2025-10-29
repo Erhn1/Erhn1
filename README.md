@@ -3,11 +3,7 @@
   <h1>Howdy, I'm Charles! 👋</h1>
 </div>
 
-
 ## 🚀 About Me
-
-
-
 ## 🛠 Skills & Tools
 
 I focus on practical application of technology to solve real-world problems.
