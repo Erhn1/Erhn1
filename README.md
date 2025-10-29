@@ -4,7 +4,6 @@
   <h3>IT Intern | Automation Enthusiast | Cloud Explorer</h3>
 </div>
 
----
 
 ## 🚀 About Me
 
@@ -15,7 +14,6 @@
 - 💡  **Fun Fact:** When I'm not troubleshooting, I enjoy long-distance cycling, which helps me approach complex problems with focus and stamina!
 </p>
 
----
 
 ## 🛠 Skills & Tools
 
@@ -30,13 +28,10 @@ I focus on practical application of technology to solve real-world problems.
 | **Networking** | TCP/IP, DNS, DHCP, Basic Cisco IOS Configuration |
 | **Version Control** | Git, GitHub |
 
----
 
 ## 🌟 Portfolio Projects
 
 Here are some projects where I've applied my skills. Click on the project images to learn more and view the code!
-
----
 
 ### 1. Daily Log File Archiver
 <div align="center">
@@ -52,9 +47,7 @@ Here are some projects where I've applied my skills. Click on the project images
   <p><a href="[Replace_with_Archiver_GitHub_Repository_Link]">🔗 View on GitHub</a></p>
 </div>
 
----
-
-### 2. Virtual LAMP Stack Deployment
+<br> ### 2. Virtual LAMP Stack Deployment
 <div align="center">
   <a href="[Replace_with_LAMP_Stack_GitHub_Repository_Link]">
     <img src="https://via.placeholder.com/600x300/121013/FFFFFF?text=Project+2+Network+Diagram+or+UI" alt="LAMP Stack Project Demo" width="600" />
@@ -68,9 +61,7 @@ Here are some projects where I've applied my skills. Click on the project images
   <p><a href="[Replace_with_LAMP_Stack_GitHub_Repository_Link]">🔗 View on GitHub</a></p>
 </div>
 
----
-
-### 3. Basic User Provisioning Script
+<br> ### 3. Basic User Provisioning Script
 <div align="center">
   <a href="[Replace_with_Provisioning_Script_GitHub_Repository_Link]">
     <img src="https://via.placeholder.com/600x300/121013/FFFFFF?text=Project+3+Script+Output+or+Flowchart" alt="User Provisioning Script Demo" width="600" />
@@ -84,7 +75,14 @@ Here are some projects where I've applied my skills. Click on the project images
   <p><a href="[Replace_with_Provisioning_Script_GitHub_Repository_Link]">🔗 View on GitHub</a></p>
 </div>
 
----
+
+## 📈 My GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=[YOUR-USERNAME]&show_icons=true&theme=vue-dark&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[YOUR-USERNAME]&theme=vue-dark&hide_border=true" alt="GitHub Streak" />
+</p>
+
 
 ## 📬 Get In Touch
 
