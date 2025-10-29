@@ -1,6 +1,6 @@
 <div align="center">
   <img height="180" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="Coding GIF" />
-  <h1>Kumusta, I'm Charles! 👋</h1>
+  <h1>Howdy, I'm Charles! 👋</h1>
 </div>
 
 
