@@ -1,10 +1,25 @@
 <div align="center">
   <img height="180" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="Coding GIF" />
-  <h1>Howdy, I'm Charles! 👋</h1>
+  <h1>Hi there, I'm Charles Alejaga! 👋</h1>
+  <h3>IT Intern | Automation Enthusiast | Cloud Explorer</h3>
 </div>
 
-## 🚀 About Me
-## 🛠 Skills & Tools
+
+<div align="center">
+  ## 🚀 About Me
+</div>
+
+<p align="left">
+- 💼  **Currently, I'm leveraging my technical skills as an IT Intern at TechCorp Solutions**, focusing on improving infrastructure reliability and efficiency through automation.
+- 🌱  **I'm deep-diving into AWS Cloud Infrastructure and Python for scripting**, aiming to earn my **AWS Certified Cloud Practitioner** certification this quarter.
+- 💻  **My passion projects involve setting up virtualized home lab environments** to test networking and security concepts, and building small utility scripts.
+- 💡  **Fun Fact:** When I'm not troubleshooting, I enjoy long-distance cycling, which helps me approach complex problems with focus and stamina!
+</p>
+
+
+<div align="center">
+  ## 🛠 Skills & Tools
+</div>
 
 I focus on practical application of technology to solve real-world problems.
 
@@ -18,7 +33,9 @@ I focus on practical application of technology to solve real-world problems.
 | **Version Control** | Git, GitHub |
 
 
-## 🌟 Portfolio Projects
+<div align="center">
+  ## 🌟 Portfolio Projects
+</div>
 
 Here are some projects where I've applied my skills. Click on the project images to learn more and view the code!
 
@@ -36,7 +53,9 @@ Here are some projects where I've applied my skills. Click on the project images
   <p><a href="[Replace_with_Archiver_GitHub_Repository_Link]">🔗 View on GitHub</a></p>
 </div>
 
-<br> ### 2. Virtual LAMP Stack Deployment
+<br>
+
+### 2. Virtual LAMP Stack Deployment
 <div align="center">
   <a href="[Replace_with_LAMP_Stack_GitHub_Repository_Link]">
     <img src="https://via.placeholder.com/600x300/121013/FFFFFF?text=Project+2+Network+Diagram+or+UI" alt="LAMP Stack Project Demo" width="600" />
@@ -50,7 +69,9 @@ Here are some projects where I've applied my skills. Click on the project images
   <p><a href="[Replace_with_LAMP_Stack_GitHub_Repository_Link]">🔗 View on GitHub</a></p>
 </div>
 
-<br> ### 3. Basic User Provisioning Script
+<br>
+
+### 3. Basic User Provisioning Script
 <div align="center">
   <a href="[Replace_with_Provisioning_Script_GitHub_Repository_Link]">
     <img src="https://via.placeholder.com/600x300/121013/FFFFFF?text=Project+3+Script+Output+or+Flowchart" alt="User Provisioning Script Demo" width="600" />
@@ -64,7 +85,20 @@ Here are some projects where I've applied my skills. Click on the project images
   <p><a href="[Replace_with_Provisioning_Script_GitHub_Repository_Link]">🔗 View on GitHub</a></p>
 </div>
 
-## 📬 Get In Touch
+
+<div align="center">
+  ## 📈 My GitHub Stats
+</div>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=[YOUR-USERNAME]&show_icons=true&theme=vue-dark&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[YOUR-USERNAME]&theme=vue-dark&hide_border=true" alt="GitHub Streak" />
+</p>
+
+
+<div align="center">
+  ## 📬 Get In Touch
+</div>
 
 * **LinkedIn:** [Link to your LinkedIn Profile]
 * **Email:** [Your Professional Email Address]
