@@ -74,7 +74,7 @@ Here are a few projects I've worked on.
   <p>A full-stack web application to modernize ferry travel at Lucena Port. This system features a public website for card info, a 'Super Admin' dashboard to manage users and schedules, and a 'Ticket Clerk' portal for handling tap entries and card top-ups.</p>
   
   <img src="(https://github.com/Erhn1/Erhn1/blob/main/assets/ecsadmin.png?raw=true)" alt="EcBarko Super Admin Dashboard" width="400" />
-  <img src="[ectclerk.jpg]" alt="EcBarko Ticket Clerk Dashboard" width="400" />
+  <img src="https://github.com/Erhn1/Erhn1/blob/main/assets/ectclerk.png?raw=true" alt="EcBarko Ticket Clerk Dashboard" width="400" />
 
   <p>
         <code><img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React" /></code>
