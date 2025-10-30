@@ -62,21 +62,24 @@ I'm a passionate [Mobile Developer / Full-Stack Developer / Your Title] with a l
 </div>
 
 ---
-
 ## 🌟 My Projects
 
 Here are a few projects I've worked on.
 
-### 1. [Project Name 1 - e.g., Flutter E-Commerce App]
+### 1. EcBarko
 <div align="center">
   <a href="[LINK-TO-YOUR-REPO-OR-LIVE-DEMO]">
-        <img src="https://via.placeholder.com/600x300/121013/FFFFFF?text=Project+1+Screenshot" alt="Project 1 Demo" width="600" />
+        <img src="[YOUR_URL_FOR_ecweb.gif]" alt="EcBarko Website Demo" width="600" />
   </a>
-  <p>[A short description of your project. What problem does it solve? What was your role?]</p>
+  <p>A full-stack web application to modernize ferry travel at Lucena Port. This system features a public website for card info, a 'Super Admin' dashboard to manage users and schedules, and a 'Ticket Clerk' portal for handling tap entries and card top-ups.</p>
+  
+  <img src="[YOUR_URL_FOR_ecsadmin.jpg]" alt="EcBarko Super Admin Dashboard" width="400" />
+  <img src="[YOUR_URL_FOR_ectclerk.jpg]" alt="EcBarko Ticket Clerk Dashboard" width="400" />
+
   <p>
-        <code><img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" alt="Flutter" /></code>
-    <code><img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" alt="Firebase" /></code>
-    <code><img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white" alt="Dart" /></code>
+        <code><img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React" /></code>
+    <code><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL" /></code>
+    <code><img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" alt="Node.js" /></code>
   </p>
   <p><a href="[LINK-TO-YOUR-REPO]">🔗 View on GitHub</a></p>
 </div>
