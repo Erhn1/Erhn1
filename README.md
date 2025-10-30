@@ -1,19 +1,6 @@
 <div align="center">
   <img height="180" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="Coding GIF" />
-  <h1>Hi there, I'm Charles Alejaga! 👋</h1>
-  <h3>IT Intern | Automation Enthusiast | Cloud Explorer</h3>
 </div>
-
-<div align="center">
-  ## 🚀 About Me
-</div>
-
-<p align="left">
-- 💼  **Currently, I'm leveraging my technical skills as an IT Intern at TechCorp Solutions**, focusing on improving infrastructure reliability and efficiency through automation.
-- 🌱  **I'm deep-diving into AWS Cloud Infrastructure and Python for scripting**, aiming to earn my **AWS Certified Cloud Practitioner** certification this quarter.
-- 💻  **My passion projects involve setting up virtualized home lab environments** to test networking and security concepts, and building small utility scripts.
-- 💡  **Fun Fact:** When I'm not troubleshooting, I enjoy long-distance cycling, which helps me approach complex problems with focus and stamina!
-</p>
 
 ---
 
