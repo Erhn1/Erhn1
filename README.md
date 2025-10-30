@@ -69,11 +69,11 @@ Here are a few projects I've worked on.
 ### 1. EcBarko
 <div align="center">
   <a href="[LINK-TO-YOUR-REPO-OR-LIVE-DEMO]">
-        <img src="[ecweb.gif]" alt="EcBarko Website Demo" width="600" />
+        <img src="https://github.com/Erhn1/Erhn1/blob/main/assets/ecmobile.gif?raw=true" alt="EcBarko Website Demo" width="600" />
   </a>
   <p>A full-stack web application to modernize ferry travel at Lucena Port. This system features a public website for card info, a 'Super Admin' dashboard to manage users and schedules, and a 'Ticket Clerk' portal for handling tap entries and card top-ups.</p>
   
-  <img src="(https://github.com/Erhn1/Erhn1/blob/main/assets/ecsadmin.png?raw=true)" alt="EcBarko Super Admin Dashboard" width="400" />
+  <img src="https://github.com/Erhn1/Erhn1/blob/main/assets/ecsadmin.png?raw=true" alt="EcBarko Super Admin Dashboard" width="400" />
   <img src="https://github.com/Erhn1/Erhn1/blob/main/assets/ectclerk.png?raw=true" alt="EcBarko Ticket Clerk Dashboard" width="400" />
 
   <p>
