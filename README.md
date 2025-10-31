@@ -51,8 +51,9 @@ I'm a passionate Information Technology student specializing in mobile and web a
 <p>A full-stack application to modernize ferry travel at Lucena Port. This system features a public website, a mobile app for users, a 'Super Admin' dashboard for analytics and management, and a 'Ticket Clerk' portal for RFID tap entries and card top-ups.</p>
 
 <p align="center">
-  <code><img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React" /></code>
   <code><img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" alt="Flutter" /></code>
+  <code><img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white" alt="Dart" /></code>
+  <code><img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React" /></code>
   <code><img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" alt="Node.js" /></code>
   <code><img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" alt="Express.js" /></code>
   <code><img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB" /></code>
