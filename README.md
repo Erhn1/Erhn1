@@ -105,17 +105,17 @@ I'm a passionate Information Technology student specializing in mobile and web a
     <tr>
       <td colspan="2" align="center">
         <strong>Website Demo</strong><br>
-        <img src="https://github.com/Erhn1/Erhn1/blob/main/assets/YOUR-SINGKOJ-GIF-NAME.gif?raw=true" alt="SingkoJ Car Rental Demo" width="800" />
+        <img src="https://github.com/Erhn1/Erhn1/blob/main/assets/sjvid.gif?raw=true" alt="SingkoJ Car Rental Demo" width="800" />
       </td>
     </tr>
     <tr>
       <td align="center">
         <strong>Responsive Screen 1</strong><br>
-        <img src="https://github.com/Erhn1/Erhn1/blob/main/assets/YOUR-SCREENSHOT-1.png?raw=true" alt="SingkoJ Screenshot 1" width="400" />
+        <img src="https://github.com/Erhn1/Erhn1/blob/main/assets/sj1.jpeg?raw=true" alt="SingkoJ Screenshot 1" width="400" />
       </td>
       <td align="center">
         <strong>Responsive Screen 2</strong><br>
-        <img src="https://github.com/Erhn1/Erhn1/blob/main/assets/YOUR-SCREENSHOT-2.png?raw=true" alt="SingkoJ Screenshot 2" width="400" />
+        <img src="https://github.com/Erhn1/Erhn1/blob/main/assets/sj2.jpeg?raw=true" alt="SingkoJ Screenshot 2" width="400" />
       </td>
     </tr>
   </table>
