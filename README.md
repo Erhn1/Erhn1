@@ -111,11 +111,11 @@ I'm a passionate Information Technology student specializing in mobile and web a
     <tr>
       <td align="center">
         <strong>Responsive Screen 1</strong><br>
-        <img src="https://github.com/Erhn1/Erhn1/blob/main/assets/sj1.jpeg?raw=true" alt="SingkoJ Screenshot 1" width="400" />
+        <img src="https://github.com/Erhn1/Erhn1/blob/main/assets/sj1.jpeg?raw=true" alt="SingkoJ Screenshot 1" style="width: 400px; height: 700px; object-fit: cover;" />
       </td>
       <td align="center">
         <strong>Responsive Screen 2</strong><br>
-        <img src="https://github.com/Erhn1/Erhn1/blob/main/assets/sj2.jpeg?raw=true" alt="SingkoJ Screenshot 2" width="400" />
+        <img src="https://github.com/Erhn1/Erhn1/blob/main/assets/sj2.jpeg?raw=true" alt="SingkoJ Screenshot 2" style="width: 400px; height: 700px; object-fit: cover;" />
       </td>
     </tr>
   </table>
