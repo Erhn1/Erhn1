@@ -89,7 +89,7 @@ I'm a passionate Information Technology student specializing in mobile and web a
 </div>
 
 <p align="center">
-  <a href="[LINK-TO-YOUR-REPO]">🔗 View on GitHub</a>
+  <a href="https://github.com/Erhn1/EcBarko">🔗 View on GitHub</a>
 </p>
 
 <hr />
