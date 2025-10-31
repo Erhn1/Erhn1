@@ -138,9 +138,8 @@ I'm a passionate Information Technology student specializing in mobile and web a
 <p>An interactive mobile application inspired by Philippine sari-sari stores, featuring a soda bottle matching game.</p>
 
 <p align="center">
-  <code><img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" alt="Flutter" /></code>
-  <code><img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white" alt="Dart" /></code>
-  <code><img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" alt="Firebase" /></code>
+  <code><img src="https://img.shields.io/badge/XML-E34F26?style=flat&logo=xml&logoColor=white" alt="XML" /></code>
+  <code><img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=androidstudio&logoColor=white" alt="Android Studio" /></code>
 </p>
 
 <div align="center">
@@ -151,7 +150,7 @@ I'm a passionate Information Technology student specializing in mobile and web a
         <img src="https://github.com/Erhn1/Erhn1/blob/main/assets/ibm1.png?raw=true" width="260" />
       </td>
       <td align="center">
-        <strong> Instructions Screen </strong><br>
+        <strong> Instruction Screen </strong><br>
         <img src="https://github.com/Erhn1/Erhn1/blob/main/assets/ibm2.png?raw=true" width="260" />
       </td>
       <td align="center">
