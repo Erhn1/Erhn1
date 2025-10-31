@@ -1,11 +1,15 @@
 <div align="center">
   <img height="180" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="Coding GIF" />
-  <h1>Hi there, I'm Charles! 👋</h1>
+  <h1>Hi there, I'm Charles! 👋</h1>
 </div>
 
 <p align="left">
-I'm a passionate Information Technology student specializing in mobile and web application development. My expertise is in creating engaging user experiences with Flutter and React, and I bring a strong background in quality assurance testing and project management. 
+I'm a passionate Information Technology student specializing in mobile and web application development. My expertise is in creating engaging user experiences with Flutter and React, and I bring a strong background in quality assurance testing and project management. 
 </p>
+
+---
+
+## 🛠 My Toolkit
 
 ### Languages
 <div align="center">
@@ -40,6 +44,8 @@ I'm a passionate Information Technology student specializing in mobile and web a
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
 </div>
+
+---
 
 Here are a few projects I've worked on.
 
