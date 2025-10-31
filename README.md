@@ -20,11 +20,10 @@ I'm a passionate [Mobile Developer / Full-Stack Developer / Your Title] with a l
 </p>
 
 ---
-
 ## 🛠 My Toolkit
 
 ### Languages
-<div align="left">
+<div align="center">
   <img src="https://skillicons.dev/icons?i=dart" height="40" alt="dart logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
@@ -41,9 +40,9 @@ I'm a passionate [Mobile Developer / Full-Stack Developer / Your Title] with a l
 </div>
 
 ### Frameworks, Databases & Tools
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
-  <img width="12" />
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=flutter" height="40" alt="flutter logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
@@ -55,11 +54,10 @@ I'm a passionate [Mobile Developer / Full-Stack Developer / Your Title] with a l
   <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
-  <img width="12" />
 </div>
 
----
-## 🌟 My Projects
+
+
 
 Here are a few projects I've worked on.
 
