@@ -115,7 +115,7 @@ I'm a passionate Information Technology student specializing in mobile and web a
       </td>
       <td align="center">
         <strong>Responsive Screen 2</strong><br>
-        <img src="https://github.com/Erhn1/Erhn1/blob/main/assets/sj2.jpeg?raw=true" alt="SingkoJ Screenshot 2" width="200" />
+        <img src="https://github.com/Erhn1/Erhn1/blob/main/assets/sj2.jpeg?raw=true" alt="SingkoJ Screenshot 2" width="250" />
       </td>
     </tr>
   </table>
