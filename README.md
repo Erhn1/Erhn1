@@ -128,8 +128,6 @@ I'm a passionate Information Technology student specializing in mobile and web a
   <a href="https://github.com/Erhn1/SingkoJ">🔗 View on GitHub</a>
 </p>
 
----
-
 <hr />
 
 <h3>I-Bote Mo</h3>
