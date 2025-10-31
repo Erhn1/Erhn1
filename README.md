@@ -162,10 +162,12 @@ I'm a passionate Information Technology student specializing in mobile and web a
   <a href="https://github.com/Erhn1/I-Bote-Mo">🔗 View on GitHub</a>
 </p>
 
+---
+
 ## Get In Touch
 
-<p align="left">
+<h3 align="left">
 Email: charles.alejaga00@gmail.com
 <br>
 Facebook: https://www.facebook.com/erhn.alejaga
-</p>
+</h3>
