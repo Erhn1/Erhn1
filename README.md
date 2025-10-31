@@ -165,10 +165,10 @@ I'm a passionate Information Technology student specializing in mobile and web a
   <a href="[LINK-TO-YOUR-REPO]">🔗 View on GitHub</a>
 </p>
 
-## 📬 Get In Touch
+## Get In Touch
 
 <p align="left">
 Email: charles.alejaga00@gmail.com
 <br>
-FaceBook: https://www.facebook.com/erhn.alejaga
+Facebook: https://www.facebook.com/erhn.alejaga
 </p>
