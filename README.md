@@ -46,7 +46,7 @@ I'm a passionate Information Technology student specializing in mobile and web a
 ---
 ### Key Projects
 
-<h2>EcBarko: A Mobile and Web Management Application for Philippine Ports Authority...</h2>
+<h3>EcBarko: A Mobile and Web Management Application for Philippine Ports Authority...</h3>
 
 <p>A full-stack application to modernize ferry travel at Lucena Port. This system features a public website, a mobile app for users, a 'Super Admin' dashboard for analytics and management, and a 'Ticket Clerk' portal for RFID tap entries and card top-ups.</p>
 
@@ -61,15 +61,24 @@ I'm a passionate Information Technology student specializing in mobile and web a
   <table>
     <tr>
       <td colspan="2" align="center">
+        <strong>Website Demo</strong><br>
         <img src="https://github.com/Erhn1/Erhn1/blob/main/assets/ecweb.gif?raw=true" alt="EcBarko Website Demo" width="800" />
       </td>
     </tr>
     <tr>
       <td align="center">
+        <strong>Super Admin Dashboard</strong><br>
         <img src="https://github.com/Erhn1/Erhn1/blob/main/assets/ecsadmin.png?raw=true" alt="EcBarko Super Admin Dashboard" width="400" />
       </td>
       <td align="center">
+        <strong>Ticket Clerk Portal</strong><br>
         <img src="https://github.com/Erhn1/Erhn1/blob/main/assets/ectclerk.png?raw=true" alt="EcBarko Ticket Clerk Dashboard" width="400" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <strong>Mobile App Demo</strong><br>
+        <img src="https://github.com/Erhn1/Erhn1/blob/main/assets/YOUR-MOBILE-APP-FILENAME.gif?raw=true" alt="EcBarko Mobile App Demo" width="400" />
       </td>
     </tr>
   </table>
