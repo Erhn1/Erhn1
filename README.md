@@ -105,7 +105,7 @@ I'm a passionate Information Technology student specializing in mobile and web a
     <tr>
       <td colspan="2" align="center">
         <strong>Website Demo</strong><br>
-        <img src="https://github.com/Erhn1/Erhn1/blob/main/assets/sjweb.gif?raw=true" alt="SingkoJ Car Rental Demo" width="800" />
+        <img src="https://github.com/Erhn1/Erhn1/blob/main/assets/sjvid.gif?raw=true" alt="SingkoJ Car Rental Demo" width="800" />
       </td>
     </tr>
     <tr>
