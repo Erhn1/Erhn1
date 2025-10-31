@@ -4,21 +4,8 @@
 </div>
 
 <p align="left">
-I'm a passionate Information Technology student specializing in mobile and web application development. My expertise is in creating engaging user experiences with Flutter and React, and I bring a strong background in Quality Assuranc testing and project management. 
+I'm a passionate Information Technology student specializing in mobile and web application development. My expertise is in creating engaging user experiences with Flutter and React, and I bring a strong background in quality assurance testing and project management. 
 </p>
-
----
-
-## 🚀 About Me
-
-<p align="left">
-🌱 I’m currently learning [Something new you're learning, e.g., a new framework or language].
-<br>
-💼 I'm open to [collaboration / internship opportunities / new roles].
-<br>
-💡 Fun Fact: [A brief, fun fact about yourself outside of coding].
-</p>
-
 ---
 ## 🛠 My Toolkit
 
