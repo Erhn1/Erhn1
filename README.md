@@ -56,7 +56,7 @@ I'm a passionate Information Technology student specializing in mobile and web a
   
   <p>
     <img src="https://github.com/Erhn1/Erhn1/blob/main/assets/ecweb.gif?raw=true" alt="EcBarko Website Demo" width="400" />
-    <img src="https://via.placeholder.com/400x800/121013/FFFFFF?text=PASTE+YOUR+MOBILE.GIF+LINK+HERE" alt="EcBarko Mobile App Demo" width="400" />
+    <img src="https://github.com/Erhn1/Erhn1/blob/main/assets/ecmobile.gif?raw=true" alt="EcBarko Mobile App Demo" width="400" />
   </p>
 
   <p>
