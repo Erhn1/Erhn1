@@ -7,8 +7,6 @@
 I'm a passionate Information Technology student specializing in mobile and web application development. My expertise is in creating engaging user experiences with Flutter and React, and I bring a strong background in quality assurance testing and project management. 
 </p>
 
-🛠 My Toolkit
-
 ### Languages
 <div align="center">
   <img src="https://skillicons.dev/icons?i=dart" height="40" alt="dart logo"  />
