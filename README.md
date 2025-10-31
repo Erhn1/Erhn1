@@ -168,7 +168,7 @@ I'm a passionate Information Technology student specializing in mobile and web a
 ## 📬 Get In Touch
 
 <p align="left">
-LinkedIn: [Your LinkedIn Profile URL]
+Email: charles.alejaga00@gmail.com
 <br>
-Email: [Your Professional Email]
+FaceBook: https://www.facebook.com/erhn.alejaga
 </p>
