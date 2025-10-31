@@ -46,7 +46,7 @@ I'm a passionate Information Technology student specializing in mobile and web a
 ---
 ### Key Projects
 
-<h3>EcBarko: A Mobile and Web Management Application for Philippine Ports Authority...</h3>
+<h3>EcBarko: A Mobile and Web Management Application for Philippine Ports Authority with RFID Technology and Descriptive Analytics</h3>
 
 <p>A full-stack application to modernize ferry travel at Lucena Port. This system features a public website, a mobile app for users, a 'Super Admin' dashboard for analytics and management, and a 'Ticket Clerk' portal for RFID tap entries and card top-ups.</p>
 
