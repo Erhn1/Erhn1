@@ -92,7 +92,7 @@ I'm a passionate Information Technology student specializing in mobile and web a
 
 <h3>SingkoJ Car Rental</h3>
 
-<p>A web application for a car rental service. Users can browse available vehicles, manage bookings, and... [ADD YOUR DESCRIPTION HERE]</p>
+<p>A web application for a car rental service. The system's main features allow users to browse vehicles, book a car in real-time, request a detailed quotation, and communicate with the the owner via message forms.</p>
 
 <p align="center">
   <code><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5" /></code>
