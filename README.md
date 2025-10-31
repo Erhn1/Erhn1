@@ -6,8 +6,8 @@
 <p align="left">
 I'm a passionate Information Technology student specializing in mobile and web application development. My expertise is in creating engaging user experiences with Flutter and React, and I bring a strong background in quality assurance testing and project management. 
 </p>
----
-## 🛠 My Toolkit
+
+🛠 My Toolkit
 
 ### Languages
 <div align="center">
@@ -42,9 +42,6 @@ I'm a passionate Information Technology student specializing in mobile and web a
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
 </div>
-
-
-
 
 Here are a few projects I've worked on.
 
