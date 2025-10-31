@@ -46,34 +46,38 @@ I'm a passionate Information Technology student specializing in mobile and web a
 ---
 ### Key Projects
 
+<h2>EcBarko: A Mobile and Web Management Application for Philippine Ports Authority...</h2>
+
+<p>A full-stack application to modernize ferry travel at Lucena Port. This system features a public website, a mobile app for users, a 'Super Admin' dashboard for analytics and management, and a 'Ticket Clerk' portal for RFID tap entries and card top-ups.</p>
+
+<p align="center">
+  <code><img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React" /></code>
+  <code><img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" alt="Flutter" /></code>
+  <code><img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" alt="Node.js" /></code>
+  <code><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL" /></code>
+</p>
+
 <div align="center">
-  <h3>EcBarko: A Mobile and Web Management Application for Philippine Ports Authority with RFID Technology and Descriptive Analytics</h3>
-  <p>A full-stack application to modernize ferry travel at Lucena Port. This system features a public website, a mobile app for users, a 'Super Admin' dashboard for analytics and management, and a 'Ticket Clerk' portal for RFID tap entries and card top-ups.</p>
-  
-  <p>
-    <img src="https://github.com/Erhn1/Erhn1/blob/main/assets/ecweb.gif?raw=true" alt="EcBarko Website Demo" width="400" />
-  </p>
-
-  <p>
-    <img src="https://github.com/Erhn1/Erhn1/blob/main/assets/ecsadmin.png?raw=true" alt="EcBarko Super Admin Dashboard" width="400" />
-    <img src="https://github.com/Erhn1/Erhn1/blob/main/assets/ectclerk.png?raw=true" alt="EcBarko Ticket Clerk Dashboard" width="400" />
-  </p>
-
-  <p>
-    <img src="https://s1.ezgif.com/tmp/ezgif-163ce2c685635a.gif" alt="EcBarko Website Demo"/>
-  </p>
-  
-
-  <p>
-    <code><img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React" /></code>
-    <code><img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" alt="Flutter" /></code>
-    <code><img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" alt="Node.js" /></code>
-    <code><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL" /></code>
-  </p>
-  
-  <p><a href="[LINK-TO-YOUR-REPO]">🔗 View on GitHub</a></p>
-
+  <table>
+    <tr>
+      <td colspan="2" align="center">
+        <img src="https://github.com/Erhn1/Erhn1/blob/main/assets/ecweb.gif?raw=true" alt="EcBarko Website Demo" width="800" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://github.com/Erhn1/Erhn1/blob/main/assets/ecsadmin.png?raw=true" alt="EcBarko Super Admin Dashboard" width="400" />
+      </td>
+      <td align="center">
+        <img src="https://github.com/Erhn1/Erhn1/blob/main/assets/ectclerk.png?raw=true" alt="EcBarko Ticket Clerk Dashboard" width="400" />
+      </td>
+    </tr>
+  </table>
 </div>
+
+<p align="center">
+  <a href="[LINK-TO-YOUR-REPO]">🔗 View on GitHub</a>
+</p>
 
 ---
 
