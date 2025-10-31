@@ -92,7 +92,7 @@ I'm a passionate Information Technology student specializing in mobile and web a
 
 <h3>SingkoJ Car Rental</h3>
 
-<p>A web application for a car rental service. The system's main features allow users to browse vehicles, book a car in real-time, request a detailed quotation, and communicate with the the owner via message forms.</p>
+<p>A web application for a car rental service. The system's main features allow users to browse vehicles, book a car in real-time, request a detailed quotation, and communicate with support via an integrated live chat.</p>
 
 <p align="center">
   <code><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5" /></code>
@@ -105,17 +105,17 @@ I'm a passionate Information Technology student specializing in mobile and web a
     <tr>
       <td colspan="2" align="center">
         <strong>Website Demo</strong><br>
-        <img src="https://github.com/Erhn1/Erhn1/blob/main/assets/sjvid.gif?raw=true" alt="SingkoJ Car Rental Demo" width="800" />
+        <img src="https://github.com/Erhn1/Erhn1/blob/main/assets/YOUR-SINGKOJ-GIF-NAME.gif?raw=true" alt="SingkoJ Car Rental Demo" width="800" />
       </td>
     </tr>
     <tr>
       <td align="center">
         <strong>Responsive Screen 1</strong><br>
-        <img src="https://github.com/Erhn1/Erhn1/blob/main/assets/sj1.jpeg?raw=true" alt="SingkoJ Screenshot 1" width="400" />
+        <img src="https://github.com/Erhn1/Erhn1/blob/main/assets/YOUR-SCREENSHOT-1.png?raw=true" alt="SingkoJ Screenshot 1" width="400" />
       </td>
       <td align="center">
         <strong>Responsive Screen 2</strong><br>
-        <img src="https://github.com/Erhn1/Erhn1/blob/main/assets/sj2.jpeg?raw=true" alt="SingkoJ Screenshot 2" width="250" />
+        <img src="https://github.com/Erhn1/Erhn1/blob/main/assets/YOUR-SCREENSHOT-2.png?raw=true" alt="SingkoJ Screenshot 2" width="400" />
       </td>
     </tr>
   </table>
