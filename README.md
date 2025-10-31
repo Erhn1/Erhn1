@@ -44,8 +44,7 @@ I'm a passionate Information Technology student specializing in mobile and web a
 </div>
 
 ---
-
-Here are a few projects I've worked on.
+### Key Projects
 
 ### 1. EcBarko
 <div align="center">
@@ -61,22 +60,6 @@ Here are a few projects I've worked on.
         <code><img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React" /></code>
     <code><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL" /></code>
     <code><img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" alt="Node.js" /></code>
-  </p>
-  <p><a href="[LINK-TO-YOUR-REPO]">🔗 View on GitHub</a></p>
-</div>
-
----
-
-### 2. [Project Name 2 - e.g., React Web Dashboard]
-<div align="center">
-  <a href="[LINK-TO-YOUR-REPO-OR-LIVE-DEMO]">
-    <img src="https://via.placeholder.com/600x300/121013/FFFFFF?text=Project+2+Screenshot" alt="Project 2 Demo" width="600" />
-  </a>
-  <p>[A short description of your project. What tech stack did you use? What did you learn?]</p>
-  <p>
-        <code><img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React" /></code>
-    <code><img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB" /></code>
-    <code><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" /></code>
   </p>
   <p><a href="[LINK-TO-YOUR-REPO]">🔗 View on GitHub</a></p>
 </div>
