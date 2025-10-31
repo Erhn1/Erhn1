@@ -88,6 +88,43 @@ I'm a passionate Information Technology student specializing in mobile and web a
   <a href="[LINK-TO-YOUR-REPO]">🔗 View on GitHub</a>
 </p>
 
+<hr />
+
+<h3>SingkoJ Car Rental</h3>
+
+<p>A web application for a car rental service. Users can browse available vehicles, manage bookings, and... [ADD YOUR DESCRIPTION HERE]</p>
+
+<p align="center">
+  <code><img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React" /></code>
+  <code><img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" alt="Node.js" /></code>
+  <code><img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB" /></code>
+</p>
+
+<div align="center">
+  <table>
+    <tr>
+      <td colspan="2" align="center">
+        <strong>Website Demo</strong><br>
+        <img src="https://github.com/Erhn1/Erhn1/blob/main/assets/sjweb.gif?raw=true" alt="SingkoJ Car Rental Demo" width="800" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <strong>Responsive Screen 1</strong><br>
+        <img src="https://github.com/Erhn1/Erhn1/blob/main/assets/sj1.jpeg?raw=true" alt="SingkoJ Screenshot 1" width="400" />
+      </td>
+      <td align="center">
+        <strong>Responsive Screen 2</strong><br>
+        <img src="https://github.com/Erhn1/Erhn1/blob/main/assets/sj2.jpeg?raw=true" alt="SingkoJ Screenshot 2" width="400" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+<p align="center">
+  <a href="[LINK-TO-YOUR-REPO]">🔗 View on GitHub</a>
+</p>
+
 ---
 
 ## 📬 Get In Touch
