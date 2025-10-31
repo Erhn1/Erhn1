@@ -135,7 +135,7 @@ I'm a passionate Information Technology student specializing in mobile and web a
 
 <h3>I-Bote Mo</h3>
 
-<p>A mobile application inspired by Philippine sari-sari stores, featuring a soda bottle matching game. [PLEASE EDIT THIS DESCRIPTION WITH MORE DETAILS]</p>
+<p>An interactive mobile application inspired by Philippine sari-sari stores, featuring a soda bottle matching game.</p>
 
 <p align="center">
   <code><img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" alt="Flutter" /></code>
@@ -147,15 +147,15 @@ I'm a passionate Information Technology student specializing in mobile and web a
   <table>
     <tr>
       <td align="center">
-        <strong>Screen 1</strong><br>
+        <strong> Welcome Screen </strong><br>
         <img src="https://github.com/Erhn1/Erhn1/blob/main/assets/ibm1.png?raw=true" width="260" />
       </td>
       <td align="center">
-        <strong>Screen 2</strong><br>
+        <strong> Instructions Screen </strong><br>
         <img src="https://github.com/Erhn1/Erhn1/blob/main/assets/ibm2.png?raw=true" width="260" />
       </td>
       <td align="center">
-        <strong>Screen 3</strong><br>
+        <strong> Gameplay Screen </strong><br>
         <img src="https://github.com/Erhn1/Erhn1/blob/main/assets/ibm3.png?raw=true" width="260" />
       </td>
     </tr>
