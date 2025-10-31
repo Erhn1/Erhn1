@@ -60,7 +60,7 @@ I'm a passionate Information Technology student specializing in mobile and web a
   </p>
 
   <p>
-    <img src="https://s1.ezgif.com/tmp/ezgif-163ce2c685635a.gif" alt="EcBarko Website Demo" width="400" />
+    <img src="https://s1.ezgif.com/tmp/ezgif-163ce2c685635a.gif" alt="EcBarko Website Demo"/>
   </p>
   
 
