@@ -86,3 +86,11 @@ LinkedIn: [Your LinkedIn Profile URL]
 <br>
 Email: [Your Professional Email]
 </p>
+
+<div align="center">
+  <a href="https://open.spotify.com/user/31klu7svrkdqvqlwiulvm7dgk2py">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31klu7svrkdqvqlwiulvm7dgk2py&count=5&unique=true" alt="Spotify recently played"  />
+  </a>
+</div>
+
+###
