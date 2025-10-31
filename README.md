@@ -44,6 +44,7 @@ I'm a passionate Information Technology student specializing in mobile and web a
 </div>
 
 ---
+
 ### Key Projects
 
 <h3>EcBarko: A Mobile and Web Management Application for Philippine Ports Authority with RFID Technology and Descriptive Analytics</h3>
@@ -127,6 +128,7 @@ I'm a passionate Information Technology student specializing in mobile and web a
 <p align="center">
   <a href="[LINK-TO-YOUR-REPO]">🔗 View on GitHub</a>
 </p>
+
 ---
 
 ## 📬 Get In Touch
