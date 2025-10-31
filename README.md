@@ -9,8 +9,6 @@ I'm a passionate Information Technology student specializing in mobile and web a
 
 ---
 
-### 🛠 My Toolkit
-
 ### Languages
 <div align="center">
   <img src="https://skillicons.dev/icons?i=dart" height="40" alt="dart logo"  />
