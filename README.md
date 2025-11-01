@@ -49,7 +49,7 @@ I'm a passionate Information Technology student specializing in mobile and web a
 
 <h3>EcBarko: A Mobile and Web Management Application for Philippine Ports Authority with RFID Technology and Descriptive Analytics</h3>
 
-<p>A full-stack application to modernize ferry travel at Lucena Port. This system features a public website, a mobile app for users, a 'Super Admin' dashboard for analytics and management, and a 'Ticket Clerk' portal for RFID tap entries and card top-ups.</p>
+<p>A full-stack application to modernize ferry travel at Lucena Port. This system features a public website, a mobile app for users, a Super Admin and Admin dashboard for analytics and management, and a Ticket Clerk portal for RFID tap entries and card top-ups.</p>
 
 <p align="center">
   <code><img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" alt="Flutter" /></code>
