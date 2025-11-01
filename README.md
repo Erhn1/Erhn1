@@ -4,7 +4,7 @@
 </div>
 
 <p align="left">
-I'm a passionate Information Technology student specializing in mobile and web application development. My expertise is in creating projects with Flutter and React, and I bring a strong background in quality assurance testing and project management. 
+I'm a passionate Information Technology student specializing in Mobile and Web application development. My expertise is in creating projects with Flutter and React, and I bring a strong background in quality assurance testing and project management. 
 </p>
 
 ---
