@@ -82,7 +82,7 @@ I'm a passionate Information Technology student specializing in Mobile and Web a
     <tr>
       <td colspan="2" align="center">
         <strong>Mobile App Demo</strong><br>
-        <img src="https://github.com/Erhn1/Erhn1/blob/main/assets/ecmobile.gif?raw=true" alt="EcBarko Mobile App Demo" width="400" />
+        <img src="https://github.com/Erhn1/Erhn1/blob/main/assets/ecmobile.gif?raw=true" alt="EcBarko Mobile App Demo" width="200" />
       </td>
     </tr>
   </table>
